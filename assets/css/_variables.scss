@@ -11,7 +11,7 @@ $global-line-height: 1.5rem;
 
 // Color of the background
 $global-background-color: #fff !default;
-$global-background-color-dark: #292a2d !default;
+$global-background-color-dark: #1c1c1c !default;
 $global-background-color-black: #000000 !default;
 
 // Color of the text
@@ -431,7 +431,7 @@ $code-highlight-color-map-black: (
 // Color map of the admonition
 $admonition-color-map: (
   'note': #448aff,
-  'abstract': #00b0ff,
+  'abstract': #00CCFF,
   'info': #00b8d4,
   'tip': #00bfa5,
   'success': #00c853,
@@ -457,7 +457,7 @@ $admonition-background-color-map: (
   'danger': rgba(255, 23, 68, 0.1),
   'bug': rgba(245, 0, 87, 0.1),
   'example': rgba(101, 31, 255, 0.1),
-  'quote': rgba(159, 159, 159, 0.1),
+  'quote': rgba(28, 28, 28, 0.1),
 ) !default;
 // ========== Friend Link ========== //
 // Color of friend link background
